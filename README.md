@@ -167,6 +167,12 @@
 - 기간 : [2015.08.03 ~ 2015.09.04]
 - 담당 : 기능구현
 
+## 개인 프로젝트 
+- vue 
+1) TODO : http://java-coder.co.kr:18905/vue-todo
+2) 해커뉴스 API 활용한 페이지 개발 : http://java-coder.co.kr:18905/vue-newspage
+3) TIL : http://java-coder.co.kr:18905/vue-til
+4) TRELLO : http://java-coder.co.kr:18905/vue-trello
 
 ## 끝맺음
 SI를 좋아하는 5년차 삽질 개발자입니다.  
