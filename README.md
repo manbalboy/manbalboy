@@ -40,7 +40,8 @@
 - xplatform
 - websquear
 - jsp
-- javascript ES6+
+- javascript ES6+, 
+- Node.Js
 - jquery
 - kendoUI
 - Vue.js
@@ -75,7 +76,6 @@
 - Doker / 쿠버네티스
 - 마이크로서비스패턴
 - React
-- Node.Js
 - Type Script
 
 앞으로는 아래것들을 익히려고 합니다.
@@ -84,7 +84,6 @@
 - JPA
 - ORACLE 아키텍쳐 , 튜닝
 - 타입스크립트
-- Node.js
 
 ## 프로젝트 이력
 
