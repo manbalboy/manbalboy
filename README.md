@@ -153,6 +153,9 @@
 3) TIL : http://java-coder.co.kr:18905/vue-til
 4) TRELLO : http://java-coder.co.kr:18905/vue-trello
 
+- nuxt (vue)
+1) nodebird : http://java-coder.co.kr:18922
+
 ## 교육
 - it 서비스 향상을 위한 정보시스템 개발 및 분석 양성(2014. 07 ~ 2014. 11)
 - oz report(2019. 05 ~ 2019. 05)
