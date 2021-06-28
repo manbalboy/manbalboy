@@ -45,6 +45,7 @@
 - jquery
 - kendoUI
 - Vue.js
+- React
 
 
 ### BackEnd
