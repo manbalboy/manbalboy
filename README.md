@@ -83,17 +83,23 @@
 - 네트워크
 - 디자인패턴 
 - JPA
-- ORACLE 아키텍쳐 , 튜닝
+- Devops(k8s)
 - 타입스크립트
 
 ## 프로젝트 이력
 
 ### ≪파견 업무≫
 
+#### 삼성카드 디지털채널 구조개편(SpringBoot, Vue, k8s)
+- 역할 : FrontEnd AA
+- 담당 : 공통컴포넌트 설계 및 Storybook , Nuxtjs 구조 설계 및 개발
+- 기간 : [2021.07.16 ~ ]
+
+
 #### 삼성카드 MSA 아키텍처 구축(SpringBoot, Vue ,MSA)
 - 역할 : FrontEnd AA
 - 담당 : Vue.js 기본 폴더구조 및 공통 인프라 구축
-- 기간 : [2021.3.02 ~ ]
+- 기간 : [2021.3.02 ~ 2021.07.15]
 
 #### LG U+ 차세대 (SpringBoot 웹스퀘어, MSA)
 - 역할 : SW엔지니어 응용SW개발자
