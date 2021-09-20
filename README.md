@@ -160,7 +160,7 @@
 3) TIL : http://java-coder.co.kr:18905/vue-til
 4) TRELLO : http://java-coder.co.kr:18905/vue-trello
 
-- nuxt (vue)
+- nuxt (vue) 
 1) nodebird : http://java-coder.co.kr:18922
 
 ## 교육
