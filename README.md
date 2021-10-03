@@ -19,7 +19,8 @@
 ```
 
 ## 회사경력 및 역할
-- 프리랜서(삼성카드)(2021.03 ~ 현재) : vue.js 공통
+- 프리랜서(삼성카드)(2021.07 ~ 현재) : UI 모듈화 및 Vue.js 공통
+- 프리랜서(삼성카드)(2021.03 ~ 2021.07) : vue.js 공통
 - 프리랜서(LG U+)(2020.07 ~ 2021.02) : websquare js.공통 및 업무 상담업무 공통
 - 프리랜서(LG 하우시스)(2020.02 ~ 2020.06) : CMS , 카테고리
 - (주)혜성정보기술(2019.01 ~ 2020.01) : 제안서평가 담당자
@@ -37,15 +38,15 @@
 
 ## 사용 기술
 ### Front
-- xplatform
+- xplatform, miplatform
 - websquear
 - jsp
 - javascript ES6+, 
 - Node.Js
 - jquery
 - kendoUI
-- Vue.js
-- React
+- Vue.js (Nuxt)
+- React (Next)
 
 
 ### BackEnd
@@ -53,6 +54,7 @@
 - Spring
 - Spring Boot
 - JPA
+- Node.js
 
 ### DB
 - Oracle
@@ -68,7 +70,7 @@
 ### 그밖
 - 형상관리 : GIT/SVN
 - 버그트래커 : Mantis
-- Jira
+- Jira, Confluence
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
@@ -78,13 +80,14 @@
 - 마이크로서비스패턴
 - React
 - Type Script
+- Python
 
 앞으로는 아래것들을 익히려고 합니다.
-- 네트워크
-- 디자인패턴 
+- 네트워크 인프라
 - JPA
 - Devops(k8s)
 - 타입스크립트
+- Python
 
 ## 프로젝트 이력
 
