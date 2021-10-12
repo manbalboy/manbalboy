@@ -88,6 +88,7 @@
 - Devops(k8s)
 - 타입스크립트
 - Python
+- kotilin
 
 ## 프로젝트 이력
 
