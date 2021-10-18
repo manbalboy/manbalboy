@@ -71,6 +71,7 @@
 - 형상관리 : GIT/SVN
 - 버그트래커 : Mantis
 - Jira, Confluence
+- bitbucket, gitlab, github
 
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
