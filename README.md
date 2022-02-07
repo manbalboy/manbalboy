@@ -75,7 +75,7 @@
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
 - Shell Script
-- Doker / 쿠버네티스
+- Docker / 쿠버네티스
 - 마이크로서비스패턴
 - React
 - Type Script
@@ -158,21 +158,6 @@
 #### PS5 영업관리 모듈 개발
 - 기간 : [2015.08.03 ~ 2015.09.04]
 - 담당 : 기능구현
-
-## 개인 프로젝트 
-```
-홈페이지가 정상 작동하지 않으면 개발자도구에서 Application 영역의 LocalStorage 와 Cookies 를 삭제후 구동해주세요
-그래도 안되면 issues 에 글 남겨주시면 감사하겠습니다. 
-```
-- vue 
-1) TODO : http://java-coder.co.kr:18905/vue-todo
-2) 해커뉴스 API 활용한 페이지 개발 : http://java-coder.co.kr:18905/vue-newspage
-3) TIL : http://java-coder.co.kr:18905/vue-til
-4) TRELLO : http://java-coder.co.kr:18905/vue-trello
-
-- nuxt (vue) 
-1) nodebird : http://java-coder.co.kr:18922
-2) ssr logger module npm 배포 : https://www.npmjs.com/package/nuxt-logger-winston 
 
 ## 교육
 - [자격증명 바로가기](https://github.com/manbalboy/manbalboy/tree/main/%EC%9E%90%EA%B2%A9%EC%A6%9D%EB%AA%85)
