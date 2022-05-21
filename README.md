@@ -1,7 +1,7 @@
 # 이력서  
 ## 소개.
 ![프로필이미지](https://github.com/manbalboy/profile/blob/master/images/JUNG2015.jpg)
-- 이름: 정훈
+- 이름: 정훈 
 - 군필여부: 필
 - 기혼
    
